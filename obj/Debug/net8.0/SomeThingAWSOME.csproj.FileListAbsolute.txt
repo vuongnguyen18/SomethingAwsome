@@ -1,0 +1,14 @@
+C:\SIT771\SomeThingAWSOME\bin\Debug\net8.0\SomeThingAWSOME.exe
+C:\SIT771\SomeThingAWSOME\bin\Debug\net8.0\SomeThingAWSOME.deps.json
+C:\SIT771\SomeThingAWSOME\bin\Debug\net8.0\SomeThingAWSOME.runtimeconfig.json
+C:\SIT771\SomeThingAWSOME\bin\Debug\net8.0\SomeThingAWSOME.dll
+C:\SIT771\SomeThingAWSOME\bin\Debug\net8.0\SomeThingAWSOME.pdb
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.AssemblyInfoInputs.cache
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.AssemblyInfo.cs
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.csproj.CoreCompileInputs.cache
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.dll
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\refint\SomeThingAWSOME.dll
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.pdb
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\SomeThingAWSOME.genruntimeconfig.cache
+C:\SIT771\SomeThingAWSOME\obj\Debug\net8.0\ref\SomeThingAWSOME.dll
