@@ -1,0 +1,27 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+
+//f:[start-end], [start-end], fram_duration
+f:[0-3],[0-3],12,
+f:[4-7],[4-7],12,
+f:[8-11],[8-11],12,
+f:[12-15],[12-15],12,
+
+
+//s: frame_number, sound_name, sound_file
+s:0,boing,comedy_boing.ogg
+s:4,boing,comedy_boing.ogg
+s:8,boing,comedy_boing.ogg
+s:12,boing,comedy_boing.ogg
+
+
+//identifiers
+//i: AnimationName, frame_index
+i:WalkFront,0
+i:WalkLeft,4
+i:WalkRight,8
+i:WalkBack,12
